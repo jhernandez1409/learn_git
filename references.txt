@@ -1,4 +1,8 @@
 jfksjgkjbkdj
 cssaefdksndfdg
 dskdksbkk
+<<<<<<< HEAD
 dkjdndkfbkdfg
+=======
+cvdfgglb
+>>>>>>> edac8dfec3b33e7bdefdd0ec50cec5cbbe677501
